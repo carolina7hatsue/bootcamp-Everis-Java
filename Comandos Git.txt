@@ -1,0 +1,5 @@
+git status
+git add -A
+git commit -m "message"
+git push
+git clone [link https]
